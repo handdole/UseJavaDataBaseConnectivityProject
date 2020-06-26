@@ -17,10 +17,10 @@
 ![이미지 006](https://user-images.githubusercontent.com/60869806/85813168-77731280-b79d-11ea-880b-2ff66c1f1126.png)
 
 
-# 나만의 플레이리스트 업로드 UI
+# 나만의 앨범 게시판 목록 UI
 ![이미지 008](https://user-images.githubusercontent.com/60869806/85813171-79d56c80-b79d-11ea-81f4-33a915fc1dee.png)
 
-# 나만의 플레이리스트 목록 UI
+# 나만의 앨범 게시판 글 업로드 UI
 ![이미지 007](https://user-images.githubusercontent.com/60869806/85813176-7b9f3000-b79d-11ea-9544-53261fb6a938.png)
 
 # 나만의 플레이리스트 게시글 UI
